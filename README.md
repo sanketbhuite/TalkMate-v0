@@ -20,7 +20,7 @@ TalkMate is a lightweight Flask-based web application that helps users improve t
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/TalkMate.git
+git clone https://github.com/sanketbhuite/TalkMate.git
 cd TalkMate
 ```
 
